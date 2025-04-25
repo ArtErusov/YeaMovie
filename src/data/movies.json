@@ -1,0 +1,613 @@
+[
+    {
+        "id": 7614478,
+        "name": "Она. К юбилею Татьяны Навки",
+        "alternativeName": null,
+        "enName": null,
+        "type": "movie",
+        "typeNumber": 1,
+        "year": 2025,
+        "description": "История жизненного пути и спортивных достижений фигуристки Татьяны Навки: от первых шагов на льду до олимпийского золота, от тяжёлых решений и испытаний до триумфов, изменивших её жизнь.",
+        "shortDescription": "История успеха олимпийской чемпионки, создающей грандиозные ледовые шоу. Вдохновляющий док о Татьяне Навке",
+        "status": null,
+        "rating": {
+            "kp": 8.312,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 1025,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": 51,
+        "totalSeriesLength": null,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/33810e56-f7d8-41cc-b21d-1d3ccc817af9/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/33810e56-f7d8-41cc-b21d-1d3ccc817af9/x1000"
+        },
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1648503/2a0000019624381f5d022180fffa1f20780a/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1648503/2a0000019624381f5d022180fffa1f20780a/x1000"
+        },
+        "genres": [
+            {
+                "name": "документальный"
+            },
+            {
+                "name": "биография"
+            },
+            {
+                "name": "спорт"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Россия"
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": false,
+        "ticketsOnSale": false
+    },
+    {
+        "id": 7583632,
+        "name": "Инспектор Гаврилов. Фильм о фильме",
+        "alternativeName": null,
+        "enName": null,
+        "type": "movie",
+        "typeNumber": 1,
+        "year": 2025,
+        "description": "Актёры и авторы «Инспектора Гаврилова» открывают секреты своей работы. Денис Власенко рассказывает, почему считает Виктора Добронравова скуфом. Екатерина Стулова делится впечатлением о драке и ударе бейсбольной битой, а Виктория Заболотная признаётся, удалось ли ей влиться в уже сложившийся коллектив.",
+        "shortDescription": "Актеры и авторы — о самых опасных и курьезных моментах на съемочной площадке. Док о создании хитовой комедии ",
+        "status": null,
+        "rating": {
+            "kp": 8.28,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 830,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": null,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/e9a5ac24-be84-428b-bdc4-047f2da1dcd5/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/e9a5ac24-be84-428b-bdc4-047f2da1dcd5/x1000"
+        },
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/224348/2a0000019614c1a969f62531a1f1489edcf7/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/224348/2a0000019614c1a969f62531a1f1489edcf7/x1000"
+        },
+        "genres": [
+            {
+                "name": "документальный"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Россия"
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": false,
+        "ticketsOnSale": false
+    },
+    {
+        "id": 7527341,
+        "name": "Результаты катастроф",
+        "alternativeName": "Discovered by Disaster",
+        "type": "tv-series",
+        "typeNumber": 2,
+        "year": 2024,
+        "description": "Исследование удивительных артефактов, обнаруженных в результате природных катастроф — от ураганов, открывающих средневековые скелеты и затонувшие корабли, до засух, раскрывающих древние города и каменные монументы.",
+        "shortDescription": "Как природные катаклизмы помогают раскрыть древние тайны? Док об удивительных находках в местах буйства стихии",
+        "status": "completed",
+        "rating": {
+            "kp": 7.384,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 1361,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": null,
+        "seriesLength": 60,
+        "ratingMpaa": null,
+        "ageRating": 16,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10809116/6284f704-1d95-4906-8cc6-a5e7d2a8c2f8/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10809116/6284f704-1d95-4906-8cc6-a5e7d2a8c2f8/x1000"
+        },
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/13051577/2a00000195f780ab0e98584327fe9bfcab0f/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/13051577/2a00000195f780ab0e98584327fe9bfcab0f/x1000"
+        },
+        "genres": [
+            {
+                "name": "документальный"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Канада"
+            }
+        ],
+        "releaseYears": [
+            {
+                "start": 2024,
+                "end": 2024
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": true,
+        "ticketsOnSale": false
+    },
+    {
+        "id": 7527359,
+        "name": "Охотники за лобстерами",
+        "alternativeName": "Claw Hunters",
+        "type": "tv-series",
+        "typeNumber": 2,
+        "year": 2024,
+        "description": "Пятеро отважных капитанов, идущих на риск в ледяных водах Северной Атлантики ради добычи «красного золота» — лобстера. Им противостоят экстремальные штормы, коварные течения и безжалостные глубины. Оперируя опытом поколений, они ежедневно ставят на кон жизнь, обеспечивая свои семьи и сохраняя традиции. В этом суровом мире любая ошибка может стоить не только улова, но и жизни.",
+        "shortDescription": null,
+        "status": "completed",
+        "rating": {
+            "kp": 7.025,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 355,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": 60,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "genres": [
+            {
+                "name": "документальный"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Канада"
+            }
+        ],
+        "releaseYears": [
+            {
+                "start": 2024,
+                "end": 2024
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": true,
+        "ticketsOnSale": false,
+        "backdrop": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/2439731/2a00000195fae2256d49326d71e35796051f/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/2439731/2a00000195fae2256d49326d71e35796051f/orig"
+        },
+        "poster": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10835644/236a994f-7a4a-48ed-82fd-bc65b62f8740/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10835644/236a994f-7a4a-48ed-82fd-bc65b62f8740/orig"
+        }
+    },
+    {
+        "id": 7528110,
+        "name": "О чем на самом деле «Пророк. История Александра Пушкина»",
+        "alternativeName": null,
+        "enName": null,
+        "type": "movie",
+        "typeNumber": 1,
+        "year": 2025,
+        "description": "Редакция Кинопоиска разбирает, как устроен байопик про главного российского поэта, зачем снимать про Пушкина музыкальный блокбастер с Юрой Борисовым, и отвечает на вопросы, возникающие после просмотра.",
+        "shortDescription": "Зачем Пушкин читает рэп и хорошо ли играет Юра Борисов? Разбираем нашумевший музыкальный блокбастер",
+        "status": null,
+        "rating": {
+            "kp": 7.664,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 8105,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": 10,
+        "totalSeriesLength": null,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "документальный"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Россия"
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": false,
+        "ticketsOnSale": false,
+        "backdrop": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/200035/2a000001961b52e86f4d3b8936fa0a551695/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/200035/2a000001961b52e86f4d3b8936fa0a551695/orig"
+        },
+        "poster": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10835644/b67f7745-5770-4de0-a5be-2ea2f6d9a7ab/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10835644/b67f7745-5770-4de0-a5be-2ea2f6d9a7ab/orig"
+        }
+    },
+    {
+        "id": 7493650,
+        "name": "Летопись королей Западного края",
+        "alternativeName": "Si fang guan",
+        "type": "tv-series",
+        "typeNumber": 2,
+        "year": 2024,
+        "description": "Простолюдин Юань Мо ведёт скромную жизнь, работая при городских воротах. Всё меняется, когда он сталкивается с беглянкой А Шу, пытающейся проникнуть в город. Этот случай втягивает его в интриги Западного края, где он неожиданно оказывается мелким чиновником, решающим большие дела. Теперь обстоятельства бросают юношу из стороны в сторону, сталкивая его то с грозным генералом, то с обворожительной аристократкой. Юаню Мо предстоит доказать, можно ли в одночасье переписать собственную судьбу, подобно летописи.",
+        "shortDescription": "Судьба государства оказывается в руках простолюдина и интриганки. Детективная дорама с юмором и экшеном",
+        "status": null,
+        "rating": {
+            "kp": 7.914,
+            "imdb": 7.4,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 238,
+            "imdb": 53,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": null,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/2385704/2a00000195f22401e3f8e64c91e5b49069f3/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/2385704/2a00000195f22401e3f8e64c91e5b49069f3/x1000"
+        },
+        "genres": [
+            {
+                "name": "драма"
+            },
+            {
+                "name": "мелодрама"
+            },
+            {
+                "name": "комедия"
+            },
+            {
+                "name": "история"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Китай"
+            }
+        ],
+        "releaseYears": [
+            {
+                "start": 2024,
+                "end": null
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": true,
+        "ticketsOnSale": false,
+        "poster": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/f79662c1-206f-4088-8763-37711ef28b5d/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/f79662c1-206f-4088-8763-37711ef28b5d/orig"
+        }
+    },
+    {
+        "id": 7513002,
+        "name": "Звёзды классики",
+        "alternativeName": "Classic Stars",
+        "type": "anime",
+        "typeNumber": 4,
+        "year": 2025,
+        "description": "В частной гимназии «Глория» учится молодёжь, на которую возлагаются большие надежды в сфере развлечений, включая музыку, спорт и разнообразные виды искусств. На музыкальном факультете в тело подходящего ученика вживляется «Дар», несущий в себе талант и возможности выдающегося музыкального деятеля, после чего ученика начинают называть именем этого композитора. Одним из таких учеников становится получивший травму парень, в котором замечают расположенность к таланту Бетховена. Его зачисляют в гимназию, где он встречается с другими носителями исключительных «Даров», соприкасается с миром музыки и стремится к победе в конкурсе.",
+        "shortDescription": "Юным дарованиям вживляют чипы с навыками гениальных композиторов. Аниме-экранизация мультимедийного проекта",
+        "status": "completed",
+        "rating": {
+            "kp": 6.846,
+            "imdb": 5.2,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 299,
+            "imdb": 22,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": null,
+        "seriesLength": 24,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/f709c653-29ce-4bb4-ac73-07e018750eb4/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/f709c653-29ce-4bb4-ac73-07e018750eb4/x1000"
+        },
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/2439731/2a00000195fc925b9228650760ede5360918/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/2439731/2a00000195fc925b9228650760ede5360918/x1000"
+        },
+        "genres": [
+            {
+                "name": "аниме"
+            },
+            {
+                "name": "мультфильм"
+            },
+            {
+                "name": "драма"
+            },
+            {
+                "name": "музыка"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Япония"
+            }
+        ],
+        "releaseYears": [
+            {
+                "start": 2025,
+                "end": 2025
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": true,
+        "ticketsOnSale": false
+    },
+    {
+        "id": 7509982,
+        "name": "Прячься, Макина!",
+        "alternativeName": "Kakushite! Makina-san!!",
+        "type": "anime",
+        "typeNumber": 4,
+        "year": 2025,
+        "description": "Однажды вечером в квартире нелюдимого техногика Эиты Акуцу появляется жизнерадостная и популярная девчонка Макина Агацума. Счастью парня, который тайно мечтал о Макине, нет предела, но когда она раздевается перед ним, он с изумлением видит, что у неё механическое тело. Оказывается, Макина — робот, созданный для интимной близости, но лишённый доступа к любой информации про взрослые отношения. Эита же — чистосердечный девственник, которого ужасно смущают всякие непотребства. Так начинается их тайное совместное проживание, узнать о котором не должен никто.",
+        "shortDescription": null,
+        "status": "completed",
+        "rating": {
+            "kp": 7.37,
+            "imdb": 7,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 525,
+            "imdb": 39,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": null,
+        "seriesLength": 13,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/d298ee8e-e79e-4175-ab85-01b373ea612a/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/d298ee8e-e79e-4175-ab85-01b373ea612a/x1000"
+        },
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1531675/2a00000195f081266879e773f9f8f7da73de/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1531675/2a00000195f081266879e773f9f8f7da73de/x1000"
+        },
+        "genres": [
+            {
+                "name": "аниме"
+            },
+            {
+                "name": "мультфильм"
+            },
+            {
+                "name": "фантастика"
+            },
+            {
+                "name": "комедия"
+            },
+            {
+                "name": "мелодрама"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Япония"
+            }
+        ],
+        "releaseYears": [
+            {
+                "start": 2025,
+                "end": 2025
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": true,
+        "ticketsOnSale": false
+    },
+    {
+        "id": 7485053,
+        "name": "Виктория",
+        "alternativeName": null,
+        "enName": null,
+        "type": "movie",
+        "typeNumber": 1,
+        "year": 2025,
+        "description": "Рассказ о молодом учёном Виктории Шипуновой, которая работает над созданием лекарства от рака.",
+        "shortDescription": "Кто и как создает препараты от онкозаболеваний в России? Док о лаборатории биохимических исследований",
+        "status": null,
+        "rating": {
+            "kp": 7.714,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 172,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": 25,
+        "totalSeriesLength": null,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 12,
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1648503/2a0000019638d2023e064779d046082dedd8/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1648503/2a0000019638d2023e064779d046082dedd8/x1000"
+        },
+        "genres": [
+            {
+                "name": "документальный"
+            },
+            {
+                "name": "короткометражка"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Россия"
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": false,
+        "ticketsOnSale": false,
+        "poster": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703959/cbecdd04-8244-4cdd-a88d-9f5f518449bf/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10703959/cbecdd04-8244-4cdd-a88d-9f5f518449bf/orig"
+        }
+    },
+    {
+        "id": 7513990,
+        "name": "Твоя форма",
+        "alternativeName": "Your Forma",
+        "type": "anime",
+        "typeNumber": 4,
+        "year": 2025,
+        "description": "Альтернативная реальность. Для спасения человечества от опасного вируса учёные изобретают особую технологию, известную как «умные нити». Благодаря ей теперь можно записывать все воспоминания и эмоции людей и хранить их бесконечно долго, чем и пользуются в своей работе правоохранительные органы. Цифровой следователь Этика Хиэда особенно преуспела в искусстве извлечения информации из этих нитей. Однажды её напарником назначают андроида Харольда Люкрафта с дерзким характером, что не очень радует Этику, но приказы не обсуждаются. Тандему предстоит заняться важным расследованием, столкнуться с корпоративным заговором и попытаться спасти человечество от новой технологической инфекции, поражающей мозг.",
+        "shortDescription": "Сыщица-вундеркинд и андроид спасают мир от смертельного вируса. Эффектное аниме с элементами киберпанка",
+        "status": "completed",
+        "rating": {
+            "kp": 7.363,
+            "imdb": 8,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": null
+        },
+        "votes": {
+            "kp": 408,
+            "imdb": 60,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "movieLength": null,
+        "totalSeriesLength": null,
+        "seriesLength": null,
+        "ratingMpaa": null,
+        "ageRating": 18,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/3607007b-73fb-4fdc-8dff-b56d0d685583/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/3607007b-73fb-4fdc-8dff-b56d0d685583/x1000"
+        },
+        "backdrop": {
+            "url": "https://image.openmoviedb.com/kinopoisk-ott-images/200035/2a00000195f0356a28226e074c6c720bd8b5/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/200035/2a00000195f0356a28226e074c6c720bd8b5/x1000"
+        },
+        "genres": [
+            {
+                "name": "аниме"
+            },
+            {
+                "name": "мультфильм"
+            },
+            {
+                "name": "фантастика"
+            },
+            {
+                "name": "детектив"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Япония"
+            }
+        ],
+        "releaseYears": [
+            {
+                "start": 2025,
+                "end": 2025
+            }
+        ],
+        "top10": null,
+        "top250": null,
+        "isSeries": true,
+        "ticketsOnSale": false
+    }
+]
