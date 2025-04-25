@@ -1,8 +1,9 @@
 import Banner from '../components/Banner';
 import Header from '../components/layout/Header';
-// import { useState } from 'react';
+import { useState } from 'react';
 import moviesData from '../data/movies.json';
 import { Movie } from '../types/types';
+import MovieCard from '../components/MovieCard';
 
 // const apiKey = import.meta.env.VITE_KINOPOISK_API_KEY;
 
@@ -17,6 +18,7 @@ function HomePage() {
     { name: 'Популярные сериалы', id: 23 },
     { name: 'Подборка фильмов', id: 34 },
   ];
+  const [activeId, setActiveId] = useState<number>(12);
   // const [movies, setMovies] = useState<Movie[]>(moviesData);
   const movies: Movie[] = moviesData;
 
@@ -45,14 +47,30 @@ function HomePage() {
       <Header />
       <Banner />
       <div className="w-[1320px] mx-auto">
-        <ul>
+        <ul className="flex space-x-4 mt-[60px]">
           {categories.map((item) => (
-            <li key={item.id}> {item.name}</li>
+            <li
+              onClick={() => setActiveId(item.id)}
+              className={`${
+                activeId === item.id
+                  ? 'text-white bg-[#080423]  font-bold'
+                  : 'cursor-pointer text-gray-500 hover:text-white hover:bg-[#080423] hover:font-bold'
+              } w-64 h-11 flex items-center justify-center rounded-4xl`}
+              key={item.id}
+            >
+              {' '}
+              {item.name}
+            </li>
           ))}
         </ul>
 
-        <div>
-          <h2 className="text-2xl mb-4">Фильмы с рейтингом IMDb 8+</h2>
+        <ul className="grid grid-cols-2 gap-6 md:grid-cols-2 mt-14 lg:grid-cols-4">
+          {movies.map((movie) => (
+            <MovieCard movie={movie} />
+          ))}
+        </ul>
+
+        {/* <div>
           <ul>
             {movies.map((movie) => (
               <li key={movie.id}>
@@ -60,7 +78,7 @@ function HomePage() {
               </li>
             ))}
           </ul>
-        </div>
+        </div> */}
       </div>
     </>
   );
